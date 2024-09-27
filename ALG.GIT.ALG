@@ -1,5 +1,6 @@
 Algoritmo "ALG.Git"
 Alteração Arthur
+Alteração Itala
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
