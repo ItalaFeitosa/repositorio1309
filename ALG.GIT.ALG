@@ -9,7 +9,7 @@ Alteração Itala
 Var
 // Seção de Declarações das variáveis 
 
-
+Joao Alteracao
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 
